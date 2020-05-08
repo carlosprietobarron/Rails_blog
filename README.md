@@ -1,24 +1,25 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a projoct for Microverse following the blogger 2 turotial, check it out here: [Blogger 2](http://tutorials.jumpstartlab.com/projects/blogger.html)
 
-Things you may want to cover:
+👤 **Johann Rodríguez**
+- Github: [@JohannRodriguez](https://github.com/JohannRodriguez)
+- Twitter: [@BSapce](https://https://twitter.com/BSapce)
+- Linkedin: [Johann Rodríguez](https://www.linkedin.com/in/johann-alonso-rodr%C3%ADguez-v%C3%A1zquez-25b07719a/)
 
-* Ruby version
+👤 **Carlos Prieto**
+- Github: [@carlosprietobarron](https://github.com/carlosprietobarron)
+- Linkedin: [Carlos Prieto](https://www.linkedin.com/in/carlos-prieto-41a2b018b/)
 
-* System dependencies
 
-* Configuration
+Contributions, issues and feature requests are welcome!
 
-* Database creation
+Feel free to check the [issues page](https://github.com/JohannRodriguez/DungeonDicesBot-ruby-capstone/issues).
 
-* Database initialization
+## Show your support
 
-* How to run the test suite
+Give a ⭐️ if you like this project!
 
-* Services (job queues, cache servers, search engines, etc.)
+## 📝 License
 
-* Deployment instructions
-
-* ...
+This project is [MIT](lic.url) licensed.
